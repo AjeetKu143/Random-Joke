@@ -1,5 +1,5 @@
-# Random Joke Teller
-https://ajeetku143.github.io/Random-Joke/  \n
+# Random Joke Teller - https://ajeetku143.github.io/Random-Joke/ 
+
 A simple web app that fetches and displays a random joke from an API when the "Show Me a Joke" button is clicked.
 
 ## Features
